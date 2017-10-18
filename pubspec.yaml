@@ -1,0 +1,12 @@
+name: material_icons
+
+description: Default icons asset for Material widgets
+author: Flutter Team <flutter-dev@googlegroups.com>
+homepage: https://github.com/flutter/material_icons
+version: 0.1.0
+
+flutter:
+  fonts:
+    - family: MaterialIcons
+      fonts:
+        - asset: assets/MaterialIcons-Regular.ttf
