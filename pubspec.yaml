@@ -1,8 +1,8 @@
-name: material_icons
+name: material_icons_font
 
-description: Default icons asset for Material widgets
+description: Default icons font asset for Material widgets
 author: Flutter Team <flutter-dev@googlegroups.com>
-homepage: https://github.com/flutter/material_icons
+homepage: https://github.com/flutter/material_icons_font
 version: 0.1.1
 
 flutter:
